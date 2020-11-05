@@ -1,0 +1,39 @@
+{
+  "name": "cli-display-error",
+  "version": "0.1.0",
+  "description": "Display a cool error message when a error object is passed!!",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "node test.js && echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paras-code-007/cli-display-error.git"
+  },
+  "keywords": [
+    "error",
+    "error handling",
+    "error display",
+    "cli",
+    "commandline",
+    "cli-display-error"
+  ],
+  "author": {
+    "name": "Paras Arora",
+    "email": "paras.arora0025@gmail.com",
+    "url": "https://twitter.com/paras0025"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paras-code-007/cli-display-error/issues"
+  },
+  "homepage": "https://github.com/Paras-code-007/cli-display-error#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "log-symbols": "^4.0.0"
+  }
+}
