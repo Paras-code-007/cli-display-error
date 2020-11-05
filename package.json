@@ -28,6 +28,7 @@
     "url": "https://twitter.com/paras0025"
   },
   "license": "MIT",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "bugs": {
     "url": "https://github.com/Paras-code-007/cli-display-error/issues"
   },
