@@ -28,13 +28,11 @@
     "url": "https://twitter.com/paras0025"
   },
   "license": "MIT",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "bugs": {
     "url": "https://github.com/Paras-code-007/cli-display-error/issues"
   },
   "homepage": "https://github.com/Paras-code-007/cli-display-error#readme",
   "dependencies": {
-    "chalk": "^4.1.0",
     "log-symbols": "^4.0.0"
   }
 }
